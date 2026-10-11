@@ -1,17 +1,14 @@
-# *Welcome to my website*
-
+# *Welcome to my website - Atte Kauppinen*
 
 ## *About Me*
-I'm studyign information and communications technology
+My name is Atte Kauppinen and I'm studying information and communications technology
 I'm also a professional simracer on iRacing and I have been doing that for about 6 years now
 I like to watch competitive League of legends and follow motorsport, mostly Formula1
-
 
 ## *Facts about me*
 * 21 years old
 * Live in Oulu
 * Highschool graduate
-
 
 ## Sim Racing Achievements
 
@@ -20,13 +17,6 @@ I like to watch competitive League of legends and follow motorsport, mostly Form
 | DigitalRacingESM 2026 | Finnish Champion |
 | iRacing Special Events | Multiple-time winner |
 | IMSA Esports | Race winner in GTP class |
-
-
-
-
-
-
-
 
 ### *Usefull links*
 [My-Teams-Instagram](https://www.instagram.com/bleumercure_esport/)
